@@ -1,0 +1,17 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /about/
+Disallow: /book/
+Disallow: /image_bed/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /categories/emotion/
+Disallow: /categories/readings/
+Disallow: /categories/share/
+Disallow: /categories/skill/
+
+Sitemap: https://www.vsky.top/sitemap.xml
+Sitemap: https://www.vsky.top/baidusitemap.xml
